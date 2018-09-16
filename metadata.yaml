@@ -5,12 +5,17 @@ contributor:
     agent_name: Walker
     gutenberg_agent_id: '46614'
     url: http://www.gutenberg.org/2009/agents/46614
+covers:
+- cover_type: archival
+  image_path: 51698-h/images/cover.jpg
 creator:
   author:
     agent_name: Stuart, William W.
     gutenberg_agent_id: '33446'
     url: http://www.gutenberg.org/2009/agents/33446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51698#The-Little-Man-Who-Wasn-t-Quite
 gutenberg_issued: '2016-04-08'
 gutenberg_type: Text
 identifiers:
